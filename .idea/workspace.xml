@@ -22,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/../../First_website/img/25.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Flappy.bird/Flappy.bird.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Logic.j/Logic.j.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ikramovabdusuuhan.vcf" beforeDir="false" afterPath="$PROJECT_DIR$/ikramovabdusuuhan.vcf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lalalala/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lalalala/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lalalala/.idea/modules.xml" beforeDir="false" />
@@ -34,7 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MzmNz2zTOrZUsiPyGpfEoZoxOS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,6 +62,7 @@
       <updated>1678778749056</updated>
       <workItem from="1678778750232" duration="319000" />
       <workItem from="1678779130810" duration="128000" />
+      <workItem from="1678779276278" duration="272000" />
     </task>
     <servers />
   </component>
